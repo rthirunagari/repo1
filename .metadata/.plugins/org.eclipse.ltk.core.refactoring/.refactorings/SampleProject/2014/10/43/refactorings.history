@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.rohit.sample.SampleClass&apos; to &apos;MainClass&apos;&#x0D;&#x0A;- Original project: &apos;SampleProject&apos;&#x0D;&#x0A;- Original element: &apos;com.rohit.sample.SampleClass&apos;&#x0D;&#x0A;- Renamed element: &apos;com.rohit.sample.MainClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SampleClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.rohit.sample{SampleClass.java[SampleClass" matchStrategy="1" name="MainClass" qualified="false" references="true" similarDeclarations="false" stamp="1414037479930" textual="false" version="1.0"/>
+</session>
